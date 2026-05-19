@@ -1,5 +1,6 @@
 venv/
 db.sqlite3
+*.json
 __pycache__/
 *.pyc
 *.pyo
